@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="asd">Birthday</string>
+    <string name="birthday">A születésnapom</string>
+    <string name="name">Név:</string>
+    <string name="dateofbirth">Születésnap (hh.nn):</string>
+    <string name="app_name">Kalendárium</string>
+    <string name="Gender">Nem:</string>
+    <string name="Male">Férfi:</string>
+    <string name="action_settings">Az adataid</string>
+    <string name="Female">Nő:</string>
+    <string name="Save">Mentés</string>
+    <string name="Reset">Visszaállítás</string>
+</resources>

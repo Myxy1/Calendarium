@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="birthday">MY BIRTHDAY</string>
+    <string name="asd">Birthday</string>
+    <string name="name">Name:</string>
+    <string name="dateofbirth">Date of birth (mm.dd):</string>
+    <string name="app_name">Is it...yet?</string>
+    <string name="Gender">Gender:</string>
+    <string name="Male">Male:</string>
+    <string name="action_settings">Your information</string>
+    <string name="Female">Female:</string>
+    <string name="Save">Save:</string>
+    <string name="Reset">Reset</string>
+</resources>
